@@ -1,3 +1,11 @@
+:root {
+    --warna-kelompok2: cadetblue;
+}
+
+.teks-kelompok2 {
+    color: dimgrey;
+}
+
 #mySidebar {
     background-image: linear-gradient(to bottom, mintcream, linen, white);
 }
